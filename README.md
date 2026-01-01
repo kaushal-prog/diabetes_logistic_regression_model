@@ -1,18 +1,18 @@
-# 🩺 Diabetes Prediction Using Logistic Regression
+#  Diabetes Prediction Using Logistic Regression
 
-## 📌 Project Description
+## Project Description
 This project demonstrates a **Machine Learning model built using Logistic Regression** to predict whether a patient has diabetes based on various medical attributes. It follows a complete ML pipeline including data preprocessing, model training, prediction, and evaluation.
 
 The model is designed for **binary classification** and is easy to understand, making it suitable for beginners learning machine learning in healthcare applications.
 
 ---
 
-## 🎯 Objective
+# Objective
 To predict diabetes in patients using medical diagnostic data and evaluate the performance of Logistic Regression as a classification algorithm.
 
 ---
 
-## 🧠 Algorithm Used
+# Algorithm Used
 - **Logistic Regression**
   - Binary classification algorithm
   - Produces probability-based predictions
@@ -20,7 +20,7 @@ To predict diabetes in patients using medical diagnostic data and evaluate the p
 
 ---
 
-## 📊 Dataset Information
+# Dataset Information
 The dataset includes the following features:
 
 - Pregnancies  
@@ -38,7 +38,7 @@ The dataset includes the following features:
 
 ---
 
-## 🔄 Project Workflow
+# Project Workflow
 1. Load and explore the dataset  
 2. Preprocess the data  
 3. Split the data into training and testing sets  
@@ -48,7 +48,7 @@ The dataset includes the following features:
 
 ---
 
-## 📈 Model Evaluation
+# Model Evaluation
 The model performance is evaluated using:
 - Accuracy Score  
 - Confusion Matrix  
@@ -56,7 +56,7 @@ The model performance is evaluated using:
 
 ---
 
-## 🛠️ Technologies & Libraries
+# Technologies & Libraries
 - Python  
 - NumPy  
 - Pandas  
@@ -66,7 +66,7 @@ The model performance is evaluated using:
 
 ---
 
-## 🚀 How to Run the Project
+# How to Run the Project
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/diabetes_logistic_regression_model.git
